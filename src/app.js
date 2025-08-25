@@ -111,6 +111,6 @@ window.onload = function () {
 
     console.log("Sorted cards:", sortedCards);
   }
-
+  
   document.getElementById("sort").addEventListener("click", sortingCards);
 };
